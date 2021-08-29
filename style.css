@@ -9,12 +9,12 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* anchor sekectors*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph selector*/
 p {
     font-size: 16px;
 }
@@ -50,7 +50,7 @@ p {
     margin-left: 25px;
     list-style-type: none;
 }
-
+/*image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,13 +58,13 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
 }
-
+/*content selectors*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*article atrabutes*/
 section.content img {
     max-height: 200px;
 }
